@@ -1,6 +1,6 @@
 {
   "name": "marvin-ai",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An advanced AI for handling your async JavaScript tasks",
   "main": "index.js",
   "scripts": {
