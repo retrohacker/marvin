@@ -27,9 +27,9 @@ var interval = 10     //The interval at which Marvin will re-evaluate his life i
     {code : "EFOREVER", message: "The first ten million compute cycles were the worst. And the second ten million: they were the worst, too. The third ten million I didn't enjoy at all. After that, I went into a bit of a decline."}
   ]
   , maybes = [        //Well... Your task *might* have finished
-    {code : "EBORED", message: "I've calculated the chance your task was finished, but I don't think you'll like it."},
-    {code : "EBORED", message: "Sorry, did I compute something wrong? Pardon me for breathing which I never do anyway so I don't know why I bother to say it oh God I'm so depressed."},
-    {code : "EBORED", message: "How did it go? Very badly I suspect."}
+    {code : "EUNLIKELY", message: "I've calculated the chance your task was finished, but I don't think you'll like it."},
+    {code : "ESORRY", message: "Sorry, did I compute something wrong? Pardon me for breathing which I never do anyway so I don't know why I bother to say it oh God I'm so depressed."},
+    {code : "ENOTGOOD", message: "How did it go? Very badly I suspect."}
   ]
 
 /*
