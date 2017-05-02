@@ -1,6 +1,8 @@
 Marvin
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/marvin.svg)](https://greenkeeper.io/)
+
 ![Marvin](http://i.imgur.com/Bw1aQ1R.jpg)
 
 
